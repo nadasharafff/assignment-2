@@ -1,0 +1,24 @@
+
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    position: relative;
+    left: 45%;
+    padding-inline: 66px;
+    padding-block: 22px;
+    color: aliceblue;
+    border-radius: 0;
+    border: 3px solid black;
+}
+.btn:hover {
+    background-color: green;
+    color: aliceblue;
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    font-size: 35px;
+}
